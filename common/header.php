@@ -90,7 +90,7 @@
                 <div class="sub-menu megamenu-list">
                   <div class="container">
                     <div class="row">
-                      <div class="service-list col-md-8 bg-colorstyle">
+                      <div class="service-list col-md-9 bg-colorstyle">
                         <div class="row">
 
 
